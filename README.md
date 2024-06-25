@@ -1,4 +1,7 @@
 # Potato Disease Classification
+## Project Flow:
+![Screenshot 2024-05-24 221719](https://github.com/madhu1690/Flora/assets/135344672/5c2baa01-a477-45cb-b823-64b79dcb45c0)
+
 ## Setup for Python:
 1. Install Python (Setup instructions)
 
