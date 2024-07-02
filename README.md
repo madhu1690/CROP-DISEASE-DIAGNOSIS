@@ -1,4 +1,4 @@
-# Potato Disease Classification
+# CROP DISEASE DIAGNOSIS
 ## Project Flow:
 ![My first design](https://github.com/madhu1690/Flora/assets/135344672/c9b28ab8-415c-465c-bb15-71642f11f391)
 
